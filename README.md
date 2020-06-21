@@ -1,2 +1,2 @@
 # RoundResults
-Predictions of condeforces's rounds results made by CF-Predictor
+Predictions of CodeForces's rounds results made by CF-Predictor.
